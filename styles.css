@@ -1,0 +1,14 @@
+.title {
+    text-align: center;
+    font-size: 50px;   
+    background-color: black;
+    color: forestgreen;
+    }
+
+li { 
+    text-align: center;
+    list-style-type: none;
+    padding: 20px;
+    font-size: 25px;
+    font-family: Helvetica;
+}
